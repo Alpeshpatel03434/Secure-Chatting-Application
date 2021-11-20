@@ -54,3 +54,12 @@ The process of decryption of an AES ciphertext is similar to the encryption proc
 Since sub-processes in each round are in reverse manner, unlike for a Feistel Cipher, the encryption and decryption algorithms needs to be separately implemented, although they are very closely related.
 
 <img src="temp/En-De-image.png"></img>
+
+# Communication using java socket - server side and client side
+
+Java Socket programming is used for communication between the applications running on different JRE.
+Java Socket programming can be connection-oriented or connection-less.
+
+Socket and ServerSocket classes are used for connection-oriented socket programming and DatagramSocket and DatagramPacket classes are used for connection-less socket programming.
+
+<img src="temp/socket-programming.png"></img>
