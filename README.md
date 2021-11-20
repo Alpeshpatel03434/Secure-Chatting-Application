@@ -17,6 +17,8 @@ Run java code     : java main
 4. Click Server and Client button (It's take time depends on your system)
 <img src="temp/img.png"></img>
 
+5. Done Ready to chat Server and client
+
 # Advanced Encryption Standard (AES) Algorithm
 
 The AES algorithm (also known as the Rijndael algorithm) is a symmetrical block cipher algorithm that takes plain text in blocks of 128 bits and converts them to ciphertext using keys of 128, 192, and 256 bits. Since the AES algorithm is considered secure, it is in the worldwide standard.
