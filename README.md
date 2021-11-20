@@ -11,7 +11,11 @@ Secure Chatting Application with AES Algorithm End to End Encryption and Decrypt
 1. Clone or download this repository to your local machine.
 2. If you do not already have the JDK software installed then <a href="https://www.oracle.com/java/technologies/downloads/">download</a> from and install it
 Set JAVA_HOME if not set Link - <a href="https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/">Help-need</a>
-
+3. Go to this location src/com/my/chatting and Open your terminal/command prompt
+Compile java code : javac main.java
+Run java code     : java main
+4. Click Server and Client button (It's take time depends on your system)
+<img src="temp/img.png"></img>
 
 # Advanced Encryption Standard (AES) Algorithm
 
