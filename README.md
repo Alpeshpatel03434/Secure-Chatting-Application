@@ -5,6 +5,12 @@ Secure Chatting Application with AES Algorithm End to End Encryption and Decrypt
 
 <img src="Picture2.png"></img>
 
+
+# How to run this project?
+
+1. Clone or download this repository to your local machine.
+2. 
+
 # Advanced Encryption Standard (AES) Algorithm
 
 The AES algorithm (also known as the Rijndael algorithm) is a symmetrical block cipher algorithm that takes plain text in blocks of 128 bits and converts them to ciphertext using keys of 128, 192, and 256 bits. Since the AES algorithm is considered secure, it is in the worldwide standard.
